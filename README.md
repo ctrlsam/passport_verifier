@@ -21,3 +21,6 @@ The code is open-source for privacy concerns.
 The 27-page [government documentation](https://nzcp.covid19.health.nz/) can take a while to implement, and be costly for a business.
 Verifying passports should be free!
 
+#### Contributions
+Thank you [@JoaoSisanoski](https://github.com/JoaoSisanoski) for the help with the Firebase implementation.<br>
+And thanks to [@MarshallOfSound](https://github.com/MarshallOfSound), your [implementation](https://github.com/MarshallOfSound/vaxpass/) helped significantly!
