@@ -1,0 +1,24 @@
+{
+  "hosting": {
+    "public": "frontend/",
+    "site": "covid-passport-nz",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "rewrites": [
+      {
+        "source": "/verify",
+        "function": "verify"
+      },
+      {
+        "source": "/verify/**",
+        "function": "verify"
+      }
+    ]
+  },
+  "firestore": {
+    "rules": "firestore.rules"
+  }
+}
