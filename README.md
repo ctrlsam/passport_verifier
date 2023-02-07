@@ -2,13 +2,15 @@
 
 Provide a PDF, Image or raw QR code data, and verify a New Zealand COVID-19 domestic passport.
 
-
+:warning: **This project has been archived as the passport system is no longer used in New Zealand** :warning:
+<br>
+Therefore I have now stopped hosting this API service. If you are in need of a verifier library, there are open source options such as [vaxxnz/nzcp-js](https://github.com/vaxxnz/nzcp-js)
 
 ## FAQ
 
 #### Is the API live?
 
-Yes, you can access the a live version at https://passport.covid.tools
+Yes, you can access the a live version at ~~https://passport.covid.tools~~
 The API is hosted on Google's Firebase platform
 
 #### What information is stored?
